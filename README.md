@@ -15,6 +15,6 @@ I am a final year Computer Science student,who is passionate about stuff like Au
 
 
 
-# Connect with me on
+## Connect with me on
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shashank-jagannatham-a8308815b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shashank.a2a) 
