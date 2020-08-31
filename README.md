@@ -10,7 +10,7 @@ I am a final year Computer Science student,who is passionate about stuff like Au
 - 🔭 I’m currently working, learning and growing my skillset in Web Development and Competitive Programming.
 - 🌱 I’m currently learning JavaScript and its frameworks(React,NodeJs).
 - 👯 I’m looking to collaborate on Django Projects
-- 🤔 I’m looking for new project ideas which are interesting.
+- 🤔 I’m looking for new,interesting project ideas to work on.
 - 📫 How to reach me: jagannathamshashank@gmail.com
 
 
