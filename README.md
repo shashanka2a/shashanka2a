@@ -3,8 +3,8 @@
 
 I am a final year Computer Science student,who is passionate about stuff like Automation and Web Development.I admire technology and believe that it makes our lives much easier. I like to face challenges and enjoy the process of solving them, where the real learning happens.
 
-*"A problem can be a catalyst for a solution."
-"Innovations are born out of challenges."*
+*"A problem can be a catalyst for a solution."*
+*"Innovations are born out of challenges."*
 
 - 🔭 I’m currently working, learning and growing my skillset in Web Development and Competitive Programming.
 - 🌱 I’m currently learning JavaScript and its frameworks.
