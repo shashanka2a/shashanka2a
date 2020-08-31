@@ -8,7 +8,7 @@ I am a final year Computer Science student,who is passionate about stuff like Au
 *"Innovations are born out of challenges."*
 
 - 🔭 I’m currently working, learning and growing my skillset in Web Development and Competitive Programming.
-- 🌱 I’m currently learning JavaScript and its frameworks.
+- 🌱 I’m currently learning JavaScript and its frameworks(React,NodeJs).
 - 👯 I’m looking to collaborate on Django Projects
 - 🤔 I’m looking for new project ideas which are interesting.
 - 📫 How to reach me: jagannathamshashank@gmail.com
