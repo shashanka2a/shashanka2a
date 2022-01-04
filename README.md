@@ -1,7 +1,7 @@
 ### Hi there 👋  I am Shashank!
 
 
-I am a final year Computer Science student,who is passionate about stuff like Automation and Web Development.I admire technology and believe that it makes our lives much easier. I like to face challenges and enjoy the process of solving them, where the real learning happens.
+I am passionate about stuff like Automation and Web Development.I admire technology and believe that it makes our lives much easier. I like to face challenges and enjoy the process of solving them, where the real learning happens.
 
 *"A problem can be a catalyst for a solution."*
 
