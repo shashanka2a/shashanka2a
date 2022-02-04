@@ -1,7 +1,7 @@
 ### Hi there 👋  I am Shashank!
 
 
-I am passionate about Blockchain and Web Development.
+I am a Blockchain Enthusiast, Web Developer.
 
 *"A problem can be a catalyst for a solution."*
 
