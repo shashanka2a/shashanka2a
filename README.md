@@ -1,16 +1,15 @@
 ### Hi there 👋  I am Shashank!
 
 
-I am passionate about stuff like Automation and Web Development.I admire technology and believe that it makes our lives much easier.I like to face challenges and enjoy the process of solving them, where the real learning happens.
+I am passionate about Blockchain and Web Development.
 
 *"A problem can be a catalyst for a solution."*
 
 *"Innovations are born out of challenges."*
 
 - 🔭 I’m currently working, learning and growing my skillset in Web Development and Competitive Programming.
-- 🌱 I’m currently learning about protocols like Ethereum,Polygon,Solana.
+- 🌱 I’m currently exploring the protocols like Ethereum,Polygon,Solana.
 - 👯 I’m looking to collaborate on any web3 project ideas.
-- 🤔 I’m looking for new,interesting project ideas to work on.
 - 📫 How to reach me: jagannathamshashank@gmail.com
 
 
