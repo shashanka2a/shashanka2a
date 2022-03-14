@@ -14,10 +14,6 @@ I am a Blockchain Enthusiast, Web Developer.
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanka2a&theme=dark&hide_border=true"/>
 
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=sharathkrml&column=7&margin-w=35&margin-h=35&no-bg=true&no-frame=true&theme=radical)](https://github.com/shashanka2a)
-<br>
-
-
 *"Innovations are born out of challenges."*
 
 - 🔭 I’m currently working, learning and growing my skillset in Web Development and Competitive Programming.
