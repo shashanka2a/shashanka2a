@@ -12,13 +12,6 @@ I am a Blockchain Enthusiast, Web Developer.
 
 
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=shashanka2a&show_icons=true&theme=tokyonight" 
-/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashanka2a&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanka2a&theme=dark&hide_border=true"/>
 
 
