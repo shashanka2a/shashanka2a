@@ -6,7 +6,7 @@ I am a Blockchain Enthusiast, Web Developer.
 *"Innovations are born out of challenges."*
 
 - 🔭 I’m currently working, learning and growing my skillset in Web Development and Competitive Programming.
-- 🌱 I’m currently exploring the protocols like Ethereum,Polygon,Solana,Near.
+- 🌱 I’m currently exploring the protocols like Ethereum,Filecoin,Polygon,Solana,Near,One.
 - 👯 I’m looking to collaborate on any web3 project ideas.
 - 📫 How to reach me: jagannathamshashank@gmail.com
 
