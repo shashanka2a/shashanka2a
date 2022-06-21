@@ -4,7 +4,7 @@
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
-- 👨‍🎓♀️ I’m a Computer Science graduate.
+- 👨‍🎓 I’m a Computer Science graduate.
 
 - 💻 I’m a Tech enthusiast with a great interest in Web Development, Blockchain Technology.
 
