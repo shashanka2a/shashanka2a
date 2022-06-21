@@ -6,9 +6,9 @@
 
 - 🙋‍♀️ I’m a Computer Science graduate.
 
-- 💻  I’m a Tech enthusiast with a great interest in Web Development, Blockchain Technology.
+- 💻 I’m a Tech enthusiast with a great interest in Web Development, Blockchain Technology.
 
-- 🌱 I’m exploring the protocols like Ethereum, Filecoin, Polygon, Solana, Near, One.
+- 🌱 I’m currently exploring the protocols like Ethereum, Filecoin, Polygon, Solana, Near, One.
 
 - 🔭 Hackathon Hunter: Willing to collaborate on web3 project ideas.
 
