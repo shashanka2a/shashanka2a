@@ -30,7 +30,6 @@
 
 </div>
 
-[![Visits Badge](https://badges.pufler.dev/visits/shashanka2a/shashanka2a?style=for-the-badge)](https://github.com/shashanka2a/)
 
 
 
