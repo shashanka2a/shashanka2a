@@ -1,34 +1,20 @@
-<h1 align="center">Hi there 👋  I am Shashank!</h1>
+<h1 align="center">Hi there 👋 I'm Shashank!</h1>
 
+<h3 align="left">💡 About Me</h3>
 
+- 👨‍🎓 Computer Science graduate with a passion for building impactful products.  
+- 💻 Tech enthusiast exploring the intersection of **Web Development** and **Blockchain**.  
+- 🌐 Currently diving deep into protocols like **Ethereum**, **Filecoin**, **Polygon**, **Solana**, **NEAR**, and **Harmony One**.  
+- 🚀 Hackathon Hunter – open to collaborations on exciting **Web3** and **AI** project ideas.  
+- ✍️ Builder of real-world products like [Tribzy](http://tribzy.com/), [Rydify](https://rydify.co), and [Gnapika](https://rydify.co).  
+- 📬 Reach me at **jagannathamshashank@gmail.com**  
 
-<h3 align="left">👩🏻‍💻 About Me :</h3>
+<h3 align="left">🤝 Connect with Me</h3>
 
-- 👨‍🎓 I’m a Computer Science graduate.
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Shashanka2a)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shashank-jagannatham/)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sha)
 
-- 💻 I’m a Tech enthusiast with a great interest in Web Development, Blockchain Technology.
-
-- 🌱 I’m currently exploring the protocols like Ethereum, Filecoin, Polygon, Solana, Near, One.
-
-- 🔭 Hackathon Hunter: Willing to collaborate on web3 project ideas.
-
-- 📧 Reach me via **jagannathamshashank@gmail.com**
-
-
-<h3 align="left">🤝 Connect with me here :</h3>  
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank">](https://twitter.com/Shashanka2a)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/shashank-jagannatham/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/shashank.a2a) 
-
-![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shashanka2a&count_private=true&show_icons=true&theme=dark)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashanka2a&theme=dark&hide_border=true"/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashanka2a&show_icons=true&locale=en&layout=compact&theme=dark" alt="saujanyaraj.07" /></p>
-
-
-</div>
 
 
 
