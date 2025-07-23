@@ -6,7 +6,7 @@
 - 💻 Tech enthusiast building at the intersection of **Web Development**, **LLMs**, and **AI Agents**.  
 - 🧠 Currently working on hackathon-driven projects using **multimodal AI**, **live video pipelines**, and **agent-based systems** to solve real-world problems.
 - 🚀 Hackathon Hunter – open to collaborations on exciting **Web3** and **AI** project ideas.  
-- ✍️ Builder of real-world products like [Tribzy](http://tribzy.com/), [Rydify](https://rydify.co), and [Gnapika](https://rydify.co).  
+- ✍️ Builder of real-world products like [Tribzy](http://tribzy.com/), [Rydify](https://rydify.co), and [Gnapika](http://gnapika.in/).  
 - 📬 Reach me at **jagannathamshashank@gmail.com**  
 
 <h3 align="left">🤝 Connect with Me</h3>
