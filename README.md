@@ -15,7 +15,7 @@
 <p align="left" style="display: flex; align-items: center; gap: 6px;">
   🌍 <strong>Let's Connect:</strong>
   <a href="https://www.linkedin.com/in/shashank-jagannatham/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>
 
