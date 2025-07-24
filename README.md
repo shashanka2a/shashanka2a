@@ -9,13 +9,6 @@
 - ✍️ Builder of real-world products like [Tribzy](http://tribzy.com/), [Rydify](https://rydify.co), and [Gnapika](http://gnapika.in/).  
 - 📬 Reach me at **jagannathamshashank@gmail.com**  
 
-<h3 align="left">🤝 Connect with Me</h3>
-
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Shashanka2a)
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shashank-jagannatham/)
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sha)
-
-
 
 
 
