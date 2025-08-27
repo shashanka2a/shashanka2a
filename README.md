@@ -5,7 +5,7 @@
 - 👨‍🎓 Computer Science graduate with a passion for **rapid prototyping** and building impactful products.  
 - 💻 Tech enthusiast working at the intersection of **Software Development**, **Blockchain/Web3**, and **ML**.  
 - 🧠 Currently experimenting with **multimodal AI**, **LLMs**, and **AI-agents** to solve real-world problems.  
-- 🚀 Hackathon Hunter – I thrive on **fast product cycles**, validating ideas, and collaborating on exciting **Web3 + AI** projects.  
+- 🚀 Hackathon Hunter – I thrive on **rapid prototyping**, validating ideas, and collaborating on exciting **Web3 + AI** projects.  
 - ✍️ Builder of real-world platforms like [Tribzy](http://tribzy.com/), [Rydify](https://rydify.co), [Gnapika](http://gnapika.in/) with hands-on **product management** and **MVP design** exp.  
 - 📬 Reach me at **jagannathamshashank@gmail.com**  
 
