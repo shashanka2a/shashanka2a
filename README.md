@@ -2,12 +2,13 @@
 
 <h3 align="left">💡 About Me</h3>
 
-- 👨‍🎓 Computer Science graduate with a passion for building impactful products.  
-- 💻 Tech enthusiast building at the intersection of **Software Development**, **Blockchain/Web3**, and **ML**.  
-- 🧠 Currently working on side projects using **multimodal AI**, **LLMs** and **AI-agents** to solve real-world problems.
-- 🚀 Hackathon Hunter – open to collaborations on exciting **Web3** and **AI** project ideas.  
-- ✍️ Builder of real-world products like [Tribzy](http://tribzy.com/), [Rydify](https://rydify.co), and [Gnapika](http://gnapika.in/).  
+- 👨‍🎓 Computer Science graduate with a passion for **rapid prototyping** and building impactful products.  
+- 💻 Tech enthusiast working at the intersection of **Software Development**, **Blockchain/Web3**, and **ML**.  
+- 🧠 Currently experimenting with **multimodal AI**, **LLMs**, and **AI-agents** to solve real-world problems.  
+- 🚀 Hackathon Hunter – I thrive on **fast product cycles**, validating ideas, and collaborating on exciting **Web3 + AI** projects.  
+- ✍️ Builder of real-world platforms like [Tribzy](http://tribzy.com/), [Rydify](https://rydify.co), and [Gnapika](http://gnapika.in/) with hands-on **product management** and **MVP design** experience.  
 - 📬 Reach me at **jagannathamshashank@gmail.com**  
+
 
 <h3 align="left"> ⚙️ Tech Stack I Work With </h3>
 <p align="left"> 
