@@ -4,7 +4,6 @@
 
 - 👨‍🎓 Computer Science graduate with a passion for **rapid prototyping** and building impactful products.  
 - 💻 Tech enthusiast working at the intersection of **Software Development**, **Blockchain/Web3**, and **ML**.  
-- 🧠 Currently building [GatorEx](http://gatorex.shop/), [HackHire](https://hackhire.dev/), and [SwiftPe](https://swiftpe.xyz/). 
 - ✍️ Builder of real-world platforms like [Tribzy](http://tribzy.com/), [Rydify](https://rydify.co), [Gnapika](http://gnapika.in/) with hands-on **product management** and **MVP design** exp.  
 - 📬 Reach me at **jagannathamshashank@gmail.com**  
 
